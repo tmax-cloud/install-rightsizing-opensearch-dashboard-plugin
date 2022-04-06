@@ -20,7 +20,7 @@ OpenSearch-Dashboards/plugins
 ├── rigthsizing_pod_detail
 ```
 
-- 각 plugin 디렉토리 내에서 `yarn plugin-helpers build` 또는 `--opensearch-dashboards-version ${OPENSEARCH_DASHBOARDS_VERSION}`를 통해서 빌드
+- 각 plugin 디렉토리 내에서 `yarn plugin-helpers build` 또는 `yarn plugin-helpers build --opensearch-dashboards-version ${OPENSEARCH_DASHBOARDS_VERSION}`를 통해서 빌드
 - 각 plugin 디렉토리 내에서 build 폴더에 저장된 zip 파일을 [Dockerfile](https://github.com/tmax-cloud/install-rightsizing-opensearch-dashboard-plugin/blob/main/Dockerfile) 디렉토리로 옮긴다.
 
 ```bash
