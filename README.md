@@ -1,7 +1,7 @@
 # Rightsizing opensearch dashboard plugin 설치 가이드
 
 ## 구성 요소 및 버전
-- Opensearch dashboard ([Opensearch-Dashboards:v1.2.0](https://github.com/opensearch-project/OpenSearch-Dashboards))
+- Opensearch dashboard ([Opensearch-Dashboards:v1.2.0](https://github.com/opensearch-project/OpenSearch-Dashboards/tree/1.2.0))
 
 ## Prerequisites
 - [rightsizing](https://github.com/tmax-cloud/install-rightsizing-opensearch-dashboard-plugin/blob/main/rightsizing) 관련 요소들
