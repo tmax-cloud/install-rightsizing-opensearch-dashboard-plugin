@@ -8,6 +8,7 @@
 
 ## Build
 > 여기서는 plugin 디렉토리들을 Opensearch-Dashboards 디렉토리에 옮겨서 진행한다고 가정한다.
+> 
 > 만약 Dockerfile 내에서 빌드를 하고 싶으면 opensearch-dashboards image를 base image로 삼아서 빌드를 진행하면 된다.
 
 - 각 plugin 디렉토리를 ([Opensearch-Dashboards/plugins](https://github.com/opensearch-project/OpenSearch-Dashboards/tree/main/plugins))로 옮긴다.
