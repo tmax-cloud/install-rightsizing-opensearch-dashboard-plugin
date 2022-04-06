@@ -1,0 +1,13 @@
+{
+  "name": "rightsizing",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "yarn plugin-helpers build",
+    "plugin-helpers": "node ../../scripts/plugin_helpers",
+    "osd": "node ../../scripts/osd"
+  },
+  "dependencies": {
+    "recharts": "1.8.5"
+  }
+}

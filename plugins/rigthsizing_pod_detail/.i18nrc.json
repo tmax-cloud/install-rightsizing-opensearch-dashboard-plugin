@@ -1,0 +1,7 @@
+{
+  "prefix": "rightsizingDetail",
+  "paths": {
+    "rightsizingDetail": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}
